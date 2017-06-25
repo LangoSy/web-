@@ -1,0 +1,133 @@
+*{padding-bottom: 0px;margin: 0px;}
+body{font:12px/22px "宋体";}
+ul{list-style: none;}
+a{text-decoration: none;color: #333;}
+.logo{
+	width: 100%;
+	height: 168px;
+	background-image: url(../images/bg1.png);
+	background-position: center,top;
+}
+.logo img{
+	padding-top: 70px;
+	padding-left: 400px;
+}
+.an input{ 
+	width:50px; 
+	height:30px; 
+	background:#FFFFFF;
+	float: right;
+	border-radius: 10px;
+	border:1px solid #000000;
+	color: #B80000;
+	font-size: 16px;
+	font-weight: bold;
+}
+.wen input{ 
+	width:320px; 
+	height:26px;
+	float: right;
+	border-radius: 10px;
+	border:1px solid #000000;
+}
+.clear{
+	clear: both;
+}
+.menu{
+	width: 100%;
+	height: 40px;
+	background-color:#282828;
+}
+.menu ul{
+	width: 1000px;
+	margin: 0px auto;
+}
+.li1{
+	float: left;
+	width: 120px;
+	line-height: 60px;
+}
+.li2{
+	font-size: 45px;
+	font-family: "宋体";
+	color: #FFFFFF;
+	float: left;
+	line-height: 40px;
+}
+.menu a{
+	font-size: 18px;
+	font-family: "微软雅黑";
+	color: #FFFFFF;
+	font-style: italic;
+} 
+.menu a:hover{
+	color: #B80000;
+	font-weight: bold;
+}
+.content{
+	width: 950px;
+	margin: 0px auto;
+}
+.content h2{
+	background-color: #282828;
+	border-radius: 4px;
+	color: #FFFFFF;
+}
+.content a{
+	color: #0000CC;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.list1{
+	width: 950px;
+	height: 600px;
+	padding-top: 20px;
+	margin:0px auto;
+}
+.list1_img{
+	width: 400px;
+	height: 100px;
+	float: left;
+	padding-bottom: 80px;
+	padding-right: 75px;
+}
+.list1_img img{
+	float: left;
+	padding: 0px;
+}
+.list1_img ul{
+	float: left;
+	padding-left: 20px;
+}
+.list2{
+	width: 950px;
+	height: 600px;
+	padding-top: 20px;
+	margin:0px auto;
+}
+.list2_img{
+	width: 400px;
+	height: 100px;
+	float: left;
+	padding-bottom: 80px;
+	padding-right: 75px;
+}
+.list2_img img{
+	float: left;
+	padding: 0px;
+}
+.list2_img ul{
+	float: left;
+	padding-left: 20px;
+}
+.list2_img ul a{
+	color: #0000CC;
+	font-weight: bold;
+}
+.footer{
+	height: 100px;
+	background-color: #666;
+	color: #aaa;
+	text-align: center;
+	line-height:100px;
+}
